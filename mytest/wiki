@@ -1,0 +1,5 @@
+Every repository on GitHub comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what your project can do, while you can use a wiki to provide additional documentation. For more information, see About READMEs.
+
+With wikis, you can write content just like everywhere else on GitHub. For more information, see Getting started with writing and formatting on GitHub. We use our open-source Markup library to convert different formats into HTML, so you can choose to write in Markdown or any other supported format.
+
+You can use Markdown to add rendered math expressions, diagrams, maps, and 3D models to your wiki. For more information on creating rendered math expressions, see Writing mathematical expressions. For more information on creating diagrams, maps and 3D models, see Creating diagrams.
