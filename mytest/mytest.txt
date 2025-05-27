@@ -1,0 +1,9 @@
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 14 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 383 bytes | 191.00 KiB/s, done.
+Total 4 (delta 0), reused 1 (delta 0), pack-reused 0
+To https://github.com/SivaKim/Hello-word.git
+   c8b5426..43fc974  test-branch -> test-branch
+
